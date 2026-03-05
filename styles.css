@@ -671,7 +671,7 @@ section {
     }
 
     .hero {
-        flex-direction: column;
+        flex-direction: column-reverse;
         gap: 2rem;
         margin-top: 80px;
     }
